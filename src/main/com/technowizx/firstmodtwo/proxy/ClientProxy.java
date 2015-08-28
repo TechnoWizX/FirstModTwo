@@ -1,6 +1,6 @@
-package com.technowizx.firstmod.proxy;
+package com.technowizx.firstmodtwo.proxy;
 
-import com.technowizx.firstmod.init.FirstModTwoItem;
+import com.technowizx.firstmodtwo.init.FirstModTwoItem;
 
 public class ClientProxy extends CommonProxy {
     @Override

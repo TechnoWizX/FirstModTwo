@@ -1,4 +1,4 @@
-package com.technowizx.firstmod;
+package com.technowizx.firstmodtwo;
 
 public class Reference {
     public static final String MOD_ID = "FirstModTwo";

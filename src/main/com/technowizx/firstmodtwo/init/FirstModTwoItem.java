@@ -1,6 +1,6 @@
-package com.technowizx.firstmod.init;
+package com.technowizx.firstmodtwo.init;
 
-import com.technowizx.firstmod.Reference;
+import com.technowizx.firstmodtwo.Reference;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class FirstModTwoItem {
     public static Item maple_leaf;
 
-    public static void init(){
+    public static void init() {
         maple_leaf = new Item().setUnlocalizedName("maple_leaf");
     }
 
